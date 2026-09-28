@@ -5,7 +5,7 @@ public class Solution {
      */
     public int add(int a, int b) {
         //replace 0  with your implementation
-        return 0;
+        return a+b;
         //throw new UnsupportedOperationException("Not implemented yet");
     }
 
@@ -14,7 +14,7 @@ public class Solution {
      */
     public int subtract(int a, int b) {
         // replace 0  with your implementation
-        return 0;
+        return a-b;
         //throw new UnsupportedOperationException("Not implemented yet");
     }
 
